@@ -1,0 +1,5 @@
+python-dotenv==1.0.0
+openai==1.35.14
+chainlit
+azure-search-documents
+tiktoken
